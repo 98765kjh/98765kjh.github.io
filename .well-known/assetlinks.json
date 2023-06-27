@@ -1,0 +1,8 @@
+#[{
+#  "relation": ["delegate_permission/common.handle_all_urls"],
+#  "target": {
+#    "namespace": "android_app",
+#    "package_name": "com.superos.android",
+#    "sha256_cert_fingerprints": ["CF:BD:61:8D:07:72:49:53:58:28:1C:F3:D4:68:F5:48:26:D7:ED:2A:68:12:25:36:D3:89:4B:68:9E:E9:41:A8"]
+#  }
+#}]
